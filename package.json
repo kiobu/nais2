@@ -1,0 +1,20 @@
+{
+  "name": "nais2",
+  "version": "1.0.0",
+  "description": "naisu ts rewrite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "ts-node index.ts"
+  },
+  "author": "kiobu",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.9.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
